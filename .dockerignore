@@ -1,0 +1,11 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+bias_history.csv
+.git
+.gitignore
+crash.log
+.DS_Store
